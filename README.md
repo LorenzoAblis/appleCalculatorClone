@@ -1,4 +1,4 @@
-#Apple Calculator Clone
+# Apple Calculator Clone
 
 A clone of Apple's calculator.
 
